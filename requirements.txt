@@ -3,4 +3,3 @@ numpy
 tensorflow
 pillow
 gdown
-zipfile
